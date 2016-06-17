@@ -1,0 +1,19 @@
+title: "Hogwash Cheaptalk"
+baseurl: "http://hogwashcheaptalk.com"
+languageCode: en-us
+theme: heather-hugo
+
+metaDataFormat: "yaml"
+
+permalinks:
+  post: /:year/:month/:title/
+
+taxonomies:
+  tags: ["meta", "theme", "blog"]
+
+params:
+  description: by Sean Maloney
+  author: 
+    name: "Sean Maloney"
+    email: "spmaloney@gmail.com"
+  readMoreLabel: "Read more"
