@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audio Shorts on Hogwash Cheaptalk</title>
+    <link>http://hogwashcheaptalk.com/categories/audio-shorts/</link>
+    <description>Recent content in Audio Shorts on Hogwash Cheaptalk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jun 2016 13:29:39 -0500</lastBuildDate>
+    <atom:link href="http://hogwashcheaptalk.com/categories/audio-shorts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Gooberville Audio Introduction</title>
+      <link>http://hogwashcheaptalk.com/2016/06/gooberville-audio-introduction/</link>
+      <pubDate>Mon, 20 Jun 2016 13:29:39 -0500</pubDate>
+      
+      <guid>http://hogwashcheaptalk.com/2016/06/gooberville-audio-introduction/</guid>
+      <description>&lt;p&gt;A short audio introduction to Gooberville&lt;/p&gt;
+
+&lt;iframe width=&#34;100%&#34; height=&#34;450&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/269906488&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

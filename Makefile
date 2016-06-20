@@ -1,7 +1,7 @@
 all: build
 
 build:
-	hugo && mv public/* ../hogwashcheaptalk.github.io/.
+	hugo && find ../hogwashcheaptalk.github.io | grep -v "\/\.git" | grep -v "CNAME" | xargs rm -rf && mv public/* ../hogwashcheaptalk.github.io/.
 
 publish: build
-	cd ../hogwashcheaptalk.github.io && git push
+	cd ../hogwashcheaptalk.github.io && git add . && git commit -m "publish" && git push
