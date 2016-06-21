@@ -3,6 +3,8 @@ baseurl: http://hogwashcheaptalk.com
 languageCode: en-us
 theme: heather-hugo
 
+googleAnalytics: UA-79707004-1
+
 metaDataFormat: yaml
 
 permalinks:
